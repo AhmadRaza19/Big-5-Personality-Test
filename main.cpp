@@ -1,8 +1,6 @@
-// Ahmad Raza CS 251
-// Project 2 - Personality Tests
+// Ahmad Raza
 // Description : App that outputs basic interface
 // which allows user to answer questions and match
-// Creative Component : Anime characters
 
 #include <set>
 #include <vector>
